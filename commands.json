@@ -7,6 +7,10 @@
               "flag F1",
               "flag G1",
               "flag H1",
-              "clear F7"
+              "clear F7",
+              "clear E8",
+              "clear F8",
+              "clear G7",
+              "flag H7"
               ]
 }
